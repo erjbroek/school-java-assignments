@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Software-Design-console-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sde_adapter1/sde_1_adapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sde_base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sde_facade" vcs="Git" />
+  </component>
+</project>
